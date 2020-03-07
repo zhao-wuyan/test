@@ -7,7 +7,7 @@ public class a {
 	}
 	
 	public void test() {
-		int a = 1+1;
+		int b = 2+1;
 	}
 	
 	//1234123451234123412
