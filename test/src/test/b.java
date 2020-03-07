@@ -1,5 +1,6 @@
-//12312
+package test;
 
-publci class a {
+
+public class b {
 
 }
