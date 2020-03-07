@@ -7,6 +7,6 @@ public class a {
 	}
 	
 	public void test() {
-		
+		int a = 1+1;
 	}
 }
